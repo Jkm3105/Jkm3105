@@ -1,3 +1,4 @@
+![logo]https://github.com/Jkm3105/Jkm3105/blob/main/github-banner.jpg
 <h1 align="center">Hi 👋, I'm Jash Mehta</h1>
 <h3 align="center">Data Science Enthusiastic</h3>
 <img align="right" alt="coding" width="300" src="https://logosbynick.com/wp-content/uploads/2022/07/Animation.gif">
