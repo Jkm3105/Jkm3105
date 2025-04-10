@@ -55,8 +55,8 @@ I am a recent graduate with a strong foundation in backend development, data sci
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jkm3105&show_icons=true&locale=en&layout=compact" alt="jkm3105" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jkm3105&show_icons=true&locale=en" alt="jkm3105" /></p>
-
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jkm3105&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="400" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jkm3105&show_icons=true&locale=en" alt="GitHub Stats" width="400" height="200"/>
+</div>
 
