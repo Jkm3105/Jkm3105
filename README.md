@@ -59,5 +59,4 @@ I am a recent graduate with a strong foundation in backend development, data sci
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jkm3105&show_icons=true&locale=en" alt="jkm3105" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jkm3105&" alt="jkm3105" /></p>
 
