@@ -1,11 +1,19 @@
 
-<h1 align="center">Hi 👋, I'm Jash Mehta</h1>
-<h3 align="center">Data Science Enthusiastic</h3>
+<h1 align="center">Hi 👋, I'm Jash Kabir Mehta</h1>
+<h3 align="center">🌱 Aspiring MSCS Candidate | 💻 Jr Backend Developer | 🚀 Emerging Technologies
+
+I am a recent graduate with a strong foundation in backend development, data science, and emerging technologies, actively pursuing a Master’s in Computer Science. With hands-on experience gained through various internships, I specialize in backend technologies, data analysis, and software development.
+
+🔧 Currently, I work as a Backend Developer at AnTim Technologies LLP, where I build and optimize backend systems using Node.js, Express.js, MongoDB, and JWT. Previously, I interned at Kohler India, contributing to web development projects using ASP.NET and C#.
+
+🌐 My expertise also includes emerging technologies like Artificial Intelligence, IoT, and SAP ERP, which I explored during my apprenticeship with Edunet Foundation. Moreover, my internship at UniQual iTech enhanced my backend development skills, particularly in Node.js and Knex.js.
+
+📚 With a strong passion for continuous learning and an eagerness to contribute to innovative projects, I am excited to further develop my skills and make meaningful contributions in the field of computer science.</h3>
 <img align="right" alt="coding" width="300" src="https://logosbynick.com/wp-content/uploads/2022/07/Animation.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jkm3105&label=Profile%20views&color=0e75b6&style=flat" alt="jkm3105" /> </p>
 
-- 🌱 I’m currently learning **PHP,Node-js.**
+- 🌱 I’m currently working on **JavaScript,Node.Js,Express.Js,AWS.**
 
 - 📫 How to reach me **jashmehta92@gmail.com**
 
