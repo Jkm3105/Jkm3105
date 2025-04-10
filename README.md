@@ -4,8 +4,6 @@
 
 I am a recent graduate with a strong foundation in backend development, data science, and emerging technologies, actively pursuing a Master’s in Computer Science. With hands-on experience gained through various internships, I specialize in backend technologies, data analysis, and software development.
 
-🔧 Currently, I work as a Backend Developer at AnTim Technologies LLP, where I build and optimize backend systems using Node.js, Express.js, MongoDB, and JWT. Previously, I interned at Kohler India, contributing to web development projects using ASP.NET and C#.
-
 🌐 My expertise also includes emerging technologies like Artificial Intelligence, IoT, and SAP ERP, which I explored during my apprenticeship with Edunet Foundation. Moreover, my internship at UniQual iTech enhanced my backend development skills, particularly in Node.js and Knex.js.
 
 📚 With a strong passion for continuous learning and an eagerness to contribute to innovative projects, I am excited to further develop my skills and make meaningful contributions in the field of computer science.</h3>
